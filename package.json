@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/GridPlus/eth-lattice-keyring#readme",
   "dependencies": {
-    "@ethereumjs/common": "2.4.0",
+    "@ethereumjs/common": "2.6.5",
     "@ethereumjs/tx": "3.3.0",
     "bn.js": "^5.2.0",
     "ethereumjs-util": "^7.0.10",
